@@ -1,10 +1,3 @@
-# Exercicio do Curso de Data Science da Ebac
-Modulo 5 exercicio referente as aulas 1 a 3. Limpeza e tratamento dos dados do data set do sus de nascidos vivos de 2019, onde os dados foram preparados para uma analise, sem quaisquer dados faltantes ou distorcidos
-
-
-Dados disponiveis em: https://datasus.saude.gov.br/
-
-
 # Módulo 5 Tarefa 1
 ## Base de nascidos vivos do DataSUS
 O DataSUS disponibiliza diversos arquivos de dados com relação a seus segurados, conforme a [lei da transparência de informações públicas](https://www.sisgov.com/transparencia-acesso-informacao/#:~:text=A%20Lei%20da%20Transpar%C3%AAncia%20(LC,em%20um%20site%20na%20internet.). 
